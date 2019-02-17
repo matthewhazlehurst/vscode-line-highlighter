@@ -1,6 +1,6 @@
 # line-highlighter README
 
-This is the README for the line-highlighter extension. Given a filename, a line number and a color code, this extension will open the file and highlight the relevant line with the chosen color. The color code is a positive or negative number between 1 and 100. A negative number will show a shade of red, and a postive number a shade of green, with the number itself dictation the percenage shade of that color. For example -25 is 25% red, and 100 is 100% green.
+This is the README for the line-highlighter extension. Given a filename, a line number and a color code, this extension will open the file and highlight the relevant line with the chosen color. The color code is a positive or negative number between 1 and 100. A negative number will show a shade of red, and a postive number a shade of green, with the number itself dictating the percenage shade of that color. For example -25 is 25% red, and 100 is 100% green.
 
 ## Features
 

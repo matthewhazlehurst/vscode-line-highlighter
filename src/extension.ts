@@ -14,7 +14,7 @@ export function activate(context: vscode.ExtensionContext) {
 		let lineNumber: number;								// Line to highlight
 		let colorCode: number;								// - Red, + Green
 		let colorRGB: string;								// Calculated RGB value
-		let activeEditor: vscode.TextEditor | undefined;    // The code window object
+		let activeEditor: vscode.TextEditor | undefined;	// The code window object
 		
 		// Gather the necessary input from the user with an input box
 		vscode.window.showInputBox({
